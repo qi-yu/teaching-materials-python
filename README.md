@@ -4,4 +4,4 @@ This repository contains teaching materials for the PhD seminar **"Python for Li
 
 All contents in this repository are created by me (Qi Yu). The slides are divided by topics for the purpose of easy lookup. References used for designing the content are given at the end of each slide. All errors are my own.
 
-For questions, suggestions or critiques, please do not hesitate to contact ```qi.yu@uni-konstanz.de```.
+For questions, suggestions or critiques, please do not hesitate to contact me via E-mail: ```qi.yu@uni-konstanz.de```
