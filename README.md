@@ -19,6 +19,6 @@ The seminar was part of the doctoral program in applied linguistics
 
   
 ## References
-The following books are used as major references:
+The following books are used as main references:
 - Dawson, Michael (2023). *Python Programming for the Absolute Beginner, Third Edition*. Course Technology.
 - Hammond, Michael (2020). *Python for Linguists*. Cambridge University Press.
